@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	padding:0;
+	height: 100vh;
+	background: #ddd;
+}
+h1{
+	margin: 0;
+}
+.title{
+	text-align: center;
+	line-height: 100vh;
+	font-family: "Source Sans Pro", Arial, sans-serif;
+	font-size:50px;
+	font-weight: bold;
+}
